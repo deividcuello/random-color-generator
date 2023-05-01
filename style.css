@@ -38,6 +38,7 @@ body{
     width: fit-content;
     margin: auto;
     font-size: 5vw;
+    transition: all 0.3s ease;
 }
 
 #generator h1{
@@ -45,4 +46,5 @@ body{
     white-space: pre-wrap;
     word-break: break-word;
     text-align: center;
+    transition: all 0.3s ease;
 }
